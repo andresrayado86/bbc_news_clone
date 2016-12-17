@@ -1,0 +1,88 @@
+
+body {
+	margin: 0;
+	padding: 0;
+	font-family: Helvetica, Arial, sans-serif;
+}
+
+#topbar {
+	width: 1000px;
+	margin: 0 auto;
+	height: 40px;
+}
+
+#logo {
+	margin-top: 8px;
+	margin-right: 8px;
+	width: 85px;
+	float: left;
+}
+
+#bell-div {
+	float: left;
+}
+
+.topbar-section {
+	float: left;
+	border-left: 1px #CCCCCC solid;
+	height: 100%;
+}
+
+
+.sign-in-icon {
+	display: inline-block;
+	font-weight: bold;
+	font-size: 14px;
+	text-decoration: none;
+	margin: 12px 50px 12px 12px;
+	float: left;
+}
+
+#linea-vertica-pico {
+	float: left;
+	height: 40px;
+	width: 7px;
+}
+
+.fa.fa-bell {
+	margin: 12px 10px;
+	color: #E4E4E4;
+}
+
+.topbar-menu {
+	font-weight: bold;
+	font-size: 14px;
+	padding: 13px 12px 0px 12px;
+	height: 27px;
+}
+
+.more-icon {
+	display: inline-block;
+	font-weight: bold;
+	font-size: 14px;
+	text-decoration: none;
+	margin: 12px 12px;
+	float: left;
+}
+
+.fa.fa-sort-desc {
+	margin-left: 15px;
+}
+
+#search-box {
+	float: left;
+	background-color: #E4E4E4;
+	border: none;
+	font-weight: bold;
+	font-size: 14px;
+	padding: 5px;
+	margin: 5px 0 5px 5px;
+}
+
+#search-button {
+	float: left;
+	background-color: #E4E4E4;
+	border: none;
+	margin: 5px 0 12px 0;
+	height: 26px;
+}
