@@ -121,3 +121,9 @@ body {
 #location-news:hover{
 	text-decoration: underline;
 }
+
+#navbar {
+	width: 100%;
+	height: 40px;
+	background-color: #A91717;
+}
